@@ -1,0 +1,13 @@
+# vtk DataFile Version 3.0
+vtk output
+ASCII
+DATASET POLYDATA
+POINTS 4 float
+1531.93 306.18 1255.73 1531.99 305.34 1256.38 1531.71 309.03 1253.51 
+1532.21 302.49 1258.60 
+LINES 1 5
+4 3 1 0 2 
+POINT_DATA 4
+FIELD FieldData 1
+MaximumInscribedSphereRadius 1 4 double
+22.82 22.82 22.82 22.82 
